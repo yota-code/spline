@@ -1,0 +1,22 @@
+<pencil>
+	<pen name="sphere" object="pen_sphere">
+		<param key="radius">20.0</param>
+	</pen>
+	<font name="guyfox">
+
+		<letter unicode="AE12">
+			<stroke>
+				<ctrl_pt x="" y="" p="" />
+				<ctrl_pt x="" y="" p="" />
+				<ctrl_pt x="" y="" p="" />
+				<ctrl_pt x="" y="" p="" />
+			</stroke>
+		
+		</letter>
+	
+	
+	</font>
+</pencil>
+
+
+

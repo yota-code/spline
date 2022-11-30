@@ -1,0 +1,21 @@
+<pen class="pen_sphere">
+	<param key="radius" value="" />
+
+<element>
+	<style>
+	<stroke id="48987">
+		<cp t="0" x="0.8" y="0.6" p="0.8" />
+		<cp t="1" x="0.8" y="07" p="0.9" />
+	
+	</stroke>
+
+	</style>
+</macro>
+
+<letter id="123">
+	<stroke>
+		<cp t="0" x="0.8" y="0.6" p="0.8" />
+		<cp t="1" x="0.8" y="07" p="0.9" />
+	<stroke>
+	<stroke recall="48987">
+	</stroke>
